@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Yasiru Deshan</h1>
-<h3 align="center">Undergraduate Student at SLIIT.</h3>
 
 
 ![intro](https://user-images.githubusercontent.com/87777854/213527650-86a2a806-1324-4eca-985b-c32f2fab7d96.jpg)
