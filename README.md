@@ -1,9 +1,6 @@
 
 
-![intro](https://user-images.githubusercontent.com/87777854/213527650-86a2a806-1324-4eca-985b-c32f2fab7d96.jpg)
-
-
-
+![intro](https://user-images.githubusercontent.com/87777854/213528935-0c0aebf2-5dc6-4d16-8228-d3831e929a10.jpg)
 
 
 
