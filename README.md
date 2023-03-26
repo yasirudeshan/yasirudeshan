@@ -1,5 +1,4 @@
-https://github.com/yasirudeshan/yasirudeshan/blob/main/gif.gif
-
+<p  align="center" ><img alt="Coding" width="80%" height="300px" src="[https://github.com/ChillBroh/ChillBroh/blob/main/png/code.gif](https://github.com/yasirudeshan/yasirudeshan/blob/main/gif.gif)"></p>
 
 
 # 💫 About Me:
