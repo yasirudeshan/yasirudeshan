@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/87777854/227809655-549e7505-318c-4a39-908a-3c8744d5f9d5.png)
+
+
+
 # 💫 About Me:
 🌱 I’m currently learning Java, MERN Stack, Flutter<br>
 
