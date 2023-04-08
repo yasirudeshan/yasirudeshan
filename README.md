@@ -1,4 +1,4 @@
-<h3 align="center">Hey there!</h3>
+
 
 ![cover](https://user-images.githubusercontent.com/87777854/230723418-a61f46e3-27e6-4ba7-9601-c568da6f6834.jpg)
 
