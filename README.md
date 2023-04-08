@@ -1,5 +1,8 @@
 <h3 align="center">Hey there!</h3>
 
+![cover](https://user-images.githubusercontent.com/87777854/230723418-a61f46e3-27e6-4ba7-9601-c568da6f6834.jpg)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasirudeshan&label=Profile%20views&color=0e75b6&style=flat" alt="yasirudeshan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rpyasiru" target="blank"><img src="https://img.shields.io/twitter/follow/rpyasiru?logo=twitter&style=for-the-badge" alt="rpyasiru" /></a> </p>
