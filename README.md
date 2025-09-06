@@ -9,7 +9,6 @@
 
 - 🔭 I’m currently working on a **Springboot, Angular**
 
-- 🌱 I’m currently learning **Java, JavaScript, React Native, Springboot, Angular**
 
 
 <h3 align="left">Connect with me:</h3>
